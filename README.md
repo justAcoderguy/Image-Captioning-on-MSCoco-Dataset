@@ -87,7 +87,6 @@ Click on the explore tab and you should see a search bar that looks like the ima
 You can select or deselect multiple objects by clicking on their corresponding icon. Below are some examples for what a sandwich search turned up! You can see that the initial results show colored overlays over objects like sandwiches and people and the objects come in different sizes and orientations.
 
 <img width="562" alt="COCO_sandwiches" src="https://user-images.githubusercontent.com/37503046/175940295-b94b5a46-357f-4011-8fc0-aff104f421b9.png">
-<img width="562" alt="COCO_sandwiches (1)" src="https://user-images.githubusercontent.com/37503046/175940312-0a55d97a-87bb-42db-a16c-9bba47d2eda2.png">
 
 
 # Captions
