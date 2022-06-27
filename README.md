@@ -92,20 +92,25 @@ You can select or deselect multiple objects by clicking on their corresponding i
 # Captions
 
 COCO is a richly labeled dataset; it comes with class labels, labels for segments of an image, and a set of captions for a given image. To see the captions for an image, select the text icon that is above the image in a toolbar. Click on the other options and see what the result is.
-![Image For Captions](images/COCO_Captions.png?raw=true)
+<img width="666" alt="COCO_Captions" src="https://user-images.githubusercontent.com/37503046/175941984-2f9665d5-5cea-475d-aca6-0184c1b9717d.png">
+
 
 When we actually train our model to generate captions, we'll be using these images as input and sampling one caption from a set of captions for each image to train on.
 
 ## Dataset Visualization
-![Image Captioning Model](images/coco-examples.jpg?raw=true)
+![coco-examples](https://user-images.githubusercontent.com/37503046/175942061-c23dce55-3d2f-4110-afa0-5ad4df9ad07c.jpg)
+
 
 
 ## Algorithm Visualization
-![Encoder](images/encoder.png?raw=true)
+<img width="1284" alt="encoder" src="https://user-images.githubusercontent.com/37503046/175942149-7a202a88-0cdf-4e06-a9b3-eb39897e5e51.png">
+
 ### It is the first part of Model i.e Encoder. It is a CNN Algorithm.
-![Decoder](images/decoder.png?raw=true)
+<img width="1430" alt="decoder" src="https://user-images.githubusercontent.com/37503046/175942833-3a1c6d79-c530-4930-a775-dcc5469631da.png">
+
 ### It is second part of Model i.e Decoder. It is a LSTM Algorithm.
-![Encoder-Decoder](images/encoder-decoder.png?raw=true)
+<img width="1186" alt="encoder-decoder" src="https://user-images.githubusercontent.com/37503046/175942911-d07b8821-5ea9-46a0-b452-03439d11fb69.png">
+
 ### Complete Visualization of how algorithm will work completely.
 
 ## Generating Image Captions
