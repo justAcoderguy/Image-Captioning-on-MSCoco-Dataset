@@ -80,10 +80,12 @@ Create a copy of the dataset in the project directory using these commands.
 # Explore
 
 Click on the explore tab and you should see a search bar that looks like the image below. Try selecting an object by it's icon and clicking search!
+
 <img width="825" alt="COCO_Explorer" src="https://user-images.githubusercontent.com/37503046/175939855-dc4b0b3c-2c45-4f81-bd35-c0ee368dd1b1.png">
 
 
 You can select or deselect multiple objects by clicking on their corresponding icon. Below are some examples for what a sandwich search turned up! You can see that the initial results show colored overlays over objects like sandwiches and people and the objects come in different sizes and orientations.
+
 <img width="562" alt="COCO_sandwiches" src="https://user-images.githubusercontent.com/37503046/175940295-b94b5a46-357f-4011-8fc0-aff104f421b9.png">
 <img width="562" alt="COCO_sandwiches (1)" src="https://user-images.githubusercontent.com/37503046/175940312-0a55d97a-87bb-42db-a16c-9bba47d2eda2.png">
 
