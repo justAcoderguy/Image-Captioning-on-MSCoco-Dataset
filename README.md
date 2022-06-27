@@ -10,6 +10,44 @@ The COCO dataset is one of the largest, publicly available image datasets and it
 
 To explore the dataset, you can check out the [dataset website](https://cocodataset.org/#explore)
 
+Create a copy of the dataset in the project directory using these commands. 
+
+`mkdir coco`
+cd coco
+mkdir images
+cd images
+
+wget http://images.cocodataset.org/zips/train2017.zip
+wget http://images.cocodataset.org/zips/val2017.zip
+wget http://images.cocodataset.org/zips/test2017.zip
+wget http://images.cocodataset.org/zips/unlabeled2017.zip
+
+unzip train2017.zip
+unzip val2017.zip
+unzip test2017.zip
+unzip unlabeled2017.zip
+
+rm train2017.zip
+rm val2017.zip
+rm test2017.zip
+rm unlabeled2017.zip 
+
+cd ../
+wget http://images.cocodataset.org/annotations/annotations_trainval2017.zip
+wget http://images.cocodataset.org/annotations/stuff_annotations_trainval2017.zip
+wget http://images.cocodataset.org/annotations/image_info_test2017.zip
+wget http://images.cocodataset.org/annotations/image_info_unlabeled2017.zip
+
+unzip annotations_trainval2017.zip
+unzip stuff_annotations_trainval2017.zip
+unzip image_info_test2017.zip
+unzip image_info_unlabeled2017.zip
+
+rm annotations_trainval2017.zip
+rm stuff_annotations_trainval2017.zip
+rm image_info_test2017.zip
+rm image_info_unlabeled2017.zip
+
 # Explore
 
 Click on the explore tab and you should see a search bar that looks like the image below. Try selecting an object by it's icon and clicking search!
