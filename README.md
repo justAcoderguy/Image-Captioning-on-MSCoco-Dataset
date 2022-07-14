@@ -1,6 +1,6 @@
 # Image Captioning Project
 
-In this project, I design and train a CNN-RNN (Convolutional Neural Network - Recurrent Neural Network) model for  automatically generating image captions. The network is trained on the Microsoft Common Objects in Context [(MS COCO)](http://cocodataset.org/#home) dataset. The image captioning model is displayed below.
+In this project, I design and train a CNN-RNN (Convolutional Neural Network - Recurrent Neural Network) model to  automatically generate captions for images. The network is trained on the Microsoft Common Objects in Context [(MS COCO)](http://cocodataset.org/#home) dataset. The image captioning model is displayed below.
 
 ![cnn_rnn_model](https://user-images.githubusercontent.com/37503046/175937368-62be5840-c6bf-4367-b0f3-eab635cbf0f2.png) [Image source](https://arxiv.org/pdf/1411.4555.pdf)
 
