@@ -10,7 +10,7 @@ The COCO dataset is one of the largest, publicly available image datasets and it
 
 To explore the dataset, you can check out the [dataset website](https://cocodataset.org/#explore)
 
-Create a copy of the dataset in the project directory using these commands. 
+Create a copy of the dataset in the project directory using these commands: 
 
 `mkdir coco`
 
